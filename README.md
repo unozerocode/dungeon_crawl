@@ -1,6 +1,10 @@
 # DungeonCrawl
 
-**TODO: Add description**
+[![CircleCI](https://circleci.com/gh/unozerocode/dungeon_crawl.svg?style=svg)](https://circleci.com/gh/unozerocode/dungeon_crawl)
+
+## Learn Functional Programming with Elixir
+
+A Tutorial from Pragmatic Programmer
 
 ## Installation
 
