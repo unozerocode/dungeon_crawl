@@ -23,3 +23,4 @@ erl_crash.dump
 dungeon_crawl-*.tar
 
 /.elixir_ls
+task_list.md
